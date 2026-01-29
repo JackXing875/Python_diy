@@ -4,7 +4,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/JackXing875/Python_diy)
 ![Last Commit](https://img.shields.io/github/last-commit/JackXing875/Python_diy)
 
-## 📖 项目简
+## 📖 项目简介
 
 *芝士 2026 船新 Python 入门指南*
 
